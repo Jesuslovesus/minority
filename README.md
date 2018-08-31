@@ -1,22 +1,3 @@
-## 登录 Jesuslovesus.github.io 即可访问
-
-### 2018.08.02 构建，将持续更新
-
-## 技术栈
-
-html5
-
-css3
-
-js
-
-elementUI
-
-vue 全家桶
-
-webpack
-
-
 ## 接口文档
 
 ### `GET` bread/v1/provinces `请求所有省份的列表`
